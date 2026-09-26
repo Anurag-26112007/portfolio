@@ -8,7 +8,7 @@ A single-page portfolio themed around Anne of Green Gables ("you as a character"
 - `script.js` — fireflies animation, scroll-reveal, portrait fade-in, journey photo slideshow, contact form (AJAX submit)
 - `portrait.jpg` — your hero photo (must keep this exact filename, or update the `<img src>` in index.html)
 - `gallery-1.jpg`, `gallery-2.jpg` — the two photos in the crossfading slideshow next to "the road so far"
-- `resume.pdf` — your résumé, bundled locally so the link never depends on an outside service
+- `RESUME.pdf` — your résumé, bundled locally so the link never depends on an outside service
 
 ## Put this on GitHub Pages
 All files already use their standard names, so nothing needs renaming before you deploy —
@@ -28,7 +28,7 @@ All files already use their standard names, so nothing needs renaming before you
 4. Your site goes live at `https://anurag-26112007.github.io/portfolio/` after a minute or two.
 
 ## Résumé
-The résumé links (hero + contact section) now point straight at `resume.pdf`,
+The résumé links (hero + contact section) now point straight at `RESUME.pdf`,
 which is bundled in this folder. Make sure that file is committed and pushed along with
 the other files — GitHub Pages will serve it just like any other static file, so the link
 works immediately with no outside service to depend on. If you ever replace your résumé,
